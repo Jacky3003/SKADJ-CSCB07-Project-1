@@ -14,5 +14,5 @@ Regular User:
  - Android Studio 
  - Java
  
- #TODO
+ TODO
  - Add screenshots of application to README
