@@ -9,3 +9,10 @@ Admin User:
 Regular User:
  - email: random1@gmail.com
  - password: random1
+ 
+ Technologies Used:
+ - Android Studio 
+ - Java
+ 
+ #TODO
+ - Add screenshots of application to README
